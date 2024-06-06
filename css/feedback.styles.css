@@ -1,0 +1,20 @@
+/*!************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/css/feedback.css ***!
+  \************************************************************************/
+form{
+    margin:0 auto;
+}
+
+label{
+    display:flex;
+    flex-direction: column;
+    margin-bottom:20px;
+}
+
+input{
+    width:200px;
+}
+textarea{
+    width:300px;
+    resize: none;
+}
